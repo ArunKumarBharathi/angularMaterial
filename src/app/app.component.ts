@@ -10,7 +10,7 @@ export interface PeriodicElement {
   weight: number;
   symbol: string;
 }
-
+debugger
 const ELEMENT_DATA: PeriodicElement[] = [
   {positions: 1, name: 'Hydrogen', weight: 1.0079, symbol: 'H'},
   {positions: 2, name: 'Helium', weight: 4.0026, symbol: 'He'},
